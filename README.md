@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeyyharsh" target="blank"><img src="https://img.shields.io/twitter/follow/codeyyharsh?logo=twitter&style=for-the-badge" alt="codeyyharsh" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C, HTML , CSS , JAVA SCRIPT , PHOTOGRAPHY(HOBBY)**
 
