@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C, HTML , CSS , JAVA SCRIPT , PHOTOGRAPHY(HOBBY)**
+- 💬 Ask me about **HTML , CSS , JAVA SCRIPT ,C, PHOTOGRAPHY(HOBBY)**
 
 - 📫 How to reach me **hv09989@gmail.com**
 
