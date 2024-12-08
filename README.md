@@ -30,4 +30,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeyharsh&show_icons=true&locale=en&layout=compact" alt="codeyharsh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeyharsh&theme=default" alt="codeyharsh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeyharsh&theme=default" alt="codeyharsh" height=140px /></p>
