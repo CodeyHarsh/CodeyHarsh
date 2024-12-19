@@ -24,7 +24,7 @@
 
 <div align ='center'>                          
 
-
+![snake gif](https://github.com/CodeyHarsh/CodeyHarsh/blob/output/github-snake-dark.svg) 
 
 </div>
 
