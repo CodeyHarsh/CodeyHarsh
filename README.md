@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML , CSS , JAVA SCRIPT ,C, PHOTOGRAPHY(HOBBY)**
 
-- 📫 How to reach me **hv09989@gmail.com**
+- 📫 How to reach me **codeyharsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
